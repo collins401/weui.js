@@ -22,7 +22,6 @@ import loading from './loading/loading';
 import actionSheet from './actionSheet/actionSheet';
 import topTips from './topTips/topTips';
 import searchBar from './searchBar/searchBar';
-import tab from './tab/tab';
 import form from './form/form';
 import uploader from './uploader/uploader';
 import {picker, datePicker} from './picker/picker';
@@ -38,7 +37,6 @@ export default {
     actionSheet,
     topTips,
     searchBar,
-    tab,
     form,
     uploader,
     picker,
